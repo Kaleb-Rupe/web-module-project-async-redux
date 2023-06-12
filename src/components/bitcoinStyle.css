@@ -1,0 +1,16 @@
+.wrapper-container {
+    margin-top: 3rem;
+    display: inline-block;
+    color: #F2A900;
+}
+
+.card-body {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+        0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.btn {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+        0 6px 20px 0 #F2A900;
+    background-color: rgb(38, 34, 34);
+}
